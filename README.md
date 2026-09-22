@@ -51,3 +51,5 @@ This prototype was developed after the 2024 water-quality monitoring research pr
 Liebel, D., Lugo, D., & Kawamura, D. (2024). *Estrategia de captura de datos con sensores de bajo costo para la gestión de calidad de agua del afluente del Río Paraná*. Revista Impacto, 4(1), 1–12.
 
 [Read the publication](https://revistas.uni.edu.py/index.php/impacto/article/view/504)
+
+![PCB layout for water-quality sensor testing](3D_PCB1_water_quality_v2_2026-09-21.png)
